@@ -1,0 +1,24 @@
+.osnova{
+    width:400px;
+    height:525px;
+}
+.opisanie{
+    margin-right: 1100px;
+    background-color: aqua;
+    color: rgb(255, 255, 255);
+}
+.s{
+    color: rgb(159, 7, 219);
+}
+.a{
+    color: firebrick;
+}
+.crimea{
+   margin-left:1250px;
+   width: 600px;
+   height: 400px;
+}
+.fa{
+    padding-left:1290px;
+    background-color: bisque;
+}
